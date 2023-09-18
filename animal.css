@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background-color: #283149;
+   }
+   h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #614004;
+   }
+   footer {
+    color: #DBEDF3;
+    font-family: sans-serif
+   }
+   .cat {
+    background-image: url("https://th-thumbnailer.cdn-si-edu.com/bZAar59Bdm95b057iESytYmmAjI=/1400x1050/filters:focal(594x274:595x275)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/95/db/95db799b-fddf-4fde-91f3-77024442b92d/egypt_kitty_social.jpg");
+
+}
+   .puppy {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr26a5nWVGbn2jNKBAbjxNsG_2TGLWZ_5K-w&usqp=CAU");
+   }
+   .bee {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/005/623/849/original/bee-colorful-clipart-set-free-vector.jpg");
+   }
+   .monkey {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBJPMsaD7uKYMEqUUCMIxi874fzG_az2vd-A&usqp=CAU");
+    }
+    .animal {
+        background-color: white;
+        background-repeat:no-repeat;
+        background-size:cover;
+        outline: none;
+        border: 20px solid #658d61;
+        border-radius: 25px;
+        font-size: 5rem;
+        font-family: 'Roboto', cursive;
+        font-weight: 900;
+        line-height: 5;
+        color: #614105;
+        text-shadow: 3px 0 #edf107;
+        display: inline-block;
+        width:500px;
+        height: 350px;
+        margin: 15px;
+        text-align: center;
+    }
+    
